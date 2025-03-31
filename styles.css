@@ -1,0 +1,37 @@
+/* 1️⃣ General Styling */
+body {
+    font-family: 'Poppins', sans-serif; /* Using a different font */
+    background-color: #f0f8ff;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+/* 2️⃣ Styling Header */
+.title {
+    color: #4CAF50; /* Green color */
+    border-bottom: 3px solid #333; /* Border */
+    padding: 10px;
+    margin-bottom: 20px;
+    font-size: 24px;
+}
+
+/* 3️⃣ Paragraph Styling */
+#intro-text {
+    font-size: 18px;
+    color: #555;
+    margin: 20px;
+    padding: 15px;
+    border: 2px dashed #4CAF50; /* Styled Border */
+    display: inline-block;
+}
+
+/* 4️⃣ Image Styling */
+.styled-image {
+    width: 200px;
+    border-radius: 10px; /* Rounded corners */
+    border: 3px solid #4CAF50; /* Green Border */
+    margin: 20px;
+    padding: 5px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.2); /* Adding shadow effect */
+}
